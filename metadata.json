@@ -1,0 +1,7 @@
+{
+  "name": "Asistente Virtual de Illescas",
+  "description": "Un asistente conversacional inteligente experto en Illescas, capaz de responder preguntas por chat y voz en tiempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
